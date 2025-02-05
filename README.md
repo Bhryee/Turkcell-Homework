@@ -1,2 +1,5 @@
-# Turkcell-Homework
-This repo was created for pair 19 of “turkcell women writing the future artificial intelligence program”.
+# Our Team 
+ - [Bahriye İŞGÖR](https://github.com/Bhryee)
+ - [Büşra Güral](https://github.com/busragural)
+ - [Aslıhan Yıldırım](https://github.com/aslihany)
+
